@@ -1,5 +1,5 @@
-import {sum} from '../index'
+import { sum } from '../index';
 
 test('sum', () => {
-    expect(sum(10,20)).toBe(30);
-})
+  expect(sum(10, 20)).toBe(30);
+});
