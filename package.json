@@ -2,7 +2,8 @@
   "name": "npm-first",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "types": "lib/index.d.ts",
+  "main": "lib/index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "test": "jest --config jestconfig.json",
