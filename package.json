@@ -1,5 +1,5 @@
 {
-  "name": "npm-first",
+  "name": "@veng-t/npm-first",
   "version": "1.0.1",
   "description": "",
   "types": "lib/index.d.ts",
