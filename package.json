@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-2023/npm-01.git"
+    "url": "git+https://github.com/coding-2023/npm-first.git"
   },
   "files": [
     "lib/**/*"
   ],
   "keywords": [],
   "author": "V-T",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/jest": "^29.5.0",
     "jest": "^29.5.0",
